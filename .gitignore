@@ -1,0 +1,13 @@
+.env
+*.json
+!package.json
+secrets.toml
+.streamlit/secrets.toml
+__pycache__/
+.venv/
+venv/
+_docx_extract/
+digital.zip
+document.xml
+digital_text.txt
+.ipynb_checkpoints/

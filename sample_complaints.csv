@@ -1,0 +1,11 @@
+Ticket ID,Timestamp,Campus,Category,Description,Location,Photo URL,Anonymous,Name,Phone,Department,Status,Priority,Telegram User ID
+#BDU-2026-101,2026-10-01 09:15:00,Peda,Academic & Technology,Wi-Fi is down in the library during exam week,Library 2nd floor,,Yes,,,,,Open,High,
+#BDU-2026-102,2026-10-02 12:40:00,Poly / BiT,Cafeteria,Food quality and long queue at lunch,Cafeteria A,,No,Anonymous withheld,,,In Progress,Medium,
+#BDU-2026-103,2026-10-03 18:20:00,Zenzelma,Dorm,No water in Block 4 bathrooms at night,Dorm Block 4,,Yes,,,,,Resolved,Low,
+#BDU-2026-104,2026-10-04 21:05:00,Fashion Technology (Selam),Peace & Security,Campus gate light is out near the workshop,Main gate,,Yes,,,,,Open,High,
+#BDU-2026-105,2026-10-05 08:10:00,Yibab,Dorm,Broken window in dorm room,Dorm 12 Room 08,,No,Student,09xxxxxxxx,Fashion Design,In Progress,Medium,
+#BDU-2026-106,2026-10-06 14:30:00,Sebatamit,Cafeteria,Hygiene concern in serving area,Main cafeteria,,Yes,,,,,Open,High,
+#BDU-2026-107,2026-10-07 10:00:00,Tibebe Ghion,Academic & Technology,Computer lab printers not working,ICT lab,,Yes,,,,,In Progress,Medium,
+#BDU-2026-108,2026-10-08 16:45:00,Fashion Technology (Selam),Cafeteria,Short meal portion during evening service,Selam cafeteria,,Yes,,,,,Open,Medium,
+#BDU-2026-109,2026-10-08 19:00:00,Yibab,Academic & Technology,Weak Wi-Fi in lecture hall,Hall 3,,Yes,,,,,Open,High,
+#BDU-2026-110,2026-10-09 07:50:00,Peda,Peace & Security,Need more lighting on walkway to dorms,East walkway,,Yes,,,,,In Progress,High,
